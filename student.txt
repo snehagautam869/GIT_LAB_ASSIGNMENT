@@ -2,4 +2,8 @@ Name: Sneha Gautam
 Course: Git and GitHub Lab
 Topic: File Change Tracking
 Status: Learning Git
+<<<<<<< HEAD
 newline -- addded some new info
+=======
+Project: Git File Change Tracking
+>>>>>>> cdf2099 (Added Practical 7 Python code)
