@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Name: Sneha Gautam
 Course: Git and GitHub Lab
 Topic: File Change Tracking
@@ -7,3 +8,11 @@ newline -- addded some new info
 =======
 Project: Git File Change Tracking
 >>>>>>> cdf2099 (Added Practical 7 Python code)
+=======
+Name: Sneha Gautam
+Course: Git and GitHub Lab
+Topic: File Change Tracking
+Status: Learning Git
+Project: Git File Change Tracking
+Newline -- added some info 
+>>>>>>> Stashed changes
